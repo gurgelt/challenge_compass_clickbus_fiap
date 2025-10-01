@@ -1,4 +1,4 @@
-# <img width="1022" height="132" alt="image" src="https://github.com/user-attachments/assets/2c3e36c6-d8e4-486f-8d40-3f69095390f7" />
+<img width="1228" height="687" alt="image" src="https://github.com/user-attachments/assets/8912adea-847d-40ee-9251-15febeea87c2" /># <img width="1022" height="132" alt="image" src="https://github.com/user-attachments/assets/2c3e36c6-d8e4-486f-8d40-3f69095390f7" />
 
 # Challenge Compass / ClickBus - FIAP
 
@@ -14,7 +14,6 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 - Arquitetura Futura
 - Como executar / rodar localmente
 - Visualização (Streamlit)
-- Colaboração / Contribuição
 - Contato / Autores
 ---
 
@@ -84,7 +83,7 @@ Em resumo, é uma arquitetura que não só resolve os desafios de hoje, mas que 
 
 ### Atenção: 
 
-- Todos os arquivos necessários para rodar o STREAMLIT são grandes demais para serem armazenados no GitHub, por isso postamos eles no Google Drive também para vocês poderem baixar e assim conseguirem executar corretamente a nossa solução.
+- Todos os arquivos necessários para executar o Streamlit são grandes demais para serem armazenados no GitHub. Por isso, disponibilizamos eles no Google Drive, para que você possa baixar e rodar a aplicação corretamente.
 
 - Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
 
@@ -115,3 +114,18 @@ streamlit run app.py
 # 7. Dê um scroll para baixo ao lado esquerdo da navbar para visualizar as opções de segmentação, previsão de compra e previsão de próximo destino.
 
 # 8. Aproveite os Insights :)
+```
+---
+### Contato / Autores
+
+<img width="1228" height="687" alt="image" src="https://github.com/user-attachments/assets/d6d0d64b-4e4d-4a1a-878f-c0f748f86c27" />
+
+#### Nosso LinkedIn:
+
+- [Paulo Gurgel](https://www.linkedin.com/in/paulo-tudini/)
+- [Mike Lucio Rubiml](https://www.linkedin.com/in/mike-rubim-155735130/)
+- [Augusto Giannattasio Lopes](https://www.linkedin.com/in/augusto-giannattasio-lopes/)
+- [Pedro Pereiral](https://www.linkedin.com/in/pedro-pereira-8334a9211/)
+
+# Guiamos a sua empresa na direção correta >>>>
+

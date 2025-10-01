@@ -56,9 +56,11 @@ O objetivo principal é apresentar uma solução de **análise, modelagem de dad
 
 ### Passo a passo de como rodar o Streamlit
 
-### Atenção: Todos os arquivos necessários para rodar o STREAMLIT são grandes demais para serem armazenados no GitHub, por isso postamos eles no Google Drive também para vocês poderem baixar e assim conseguir executar corretamente a nossa solução.
+### Atenção: 
 
-### Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
+- Todos os arquivos necessários para rodar o STREAMLIT são grandes demais para serem armazenados no GitHub, por isso postamos eles no Google Drive também para vocês poderem baixar e assim conseguir executar corretamente a nossa solução.
+
+- Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
 
 ```bash
 # 1. Clone o repositório

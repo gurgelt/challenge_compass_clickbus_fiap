@@ -61,20 +61,25 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 - Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
 
 ```bash
-# 1. Clone o repositório
-git clone https://github.com/gurgelt/challenge_compass_clickbus_fiap.git
-cd challenge_compass_clickbus_fiap
+# 1. Abra a pasta "Visualização Streamlit" no link do Google Drive
 
-# 2. Instale dependências
+# 2. Baixe a pasta "clickbuss"
+
+# 3. Abra a pasta no VSCODE
+
+# 3. Abra o arquivo app.py
+
+# 4. Instale as dependências necessárias no console
 pip install numpy pandas streamlit plotly
 
-# 3. Altere o caminho da sua pasta local para rodar
+# 5. Altere o caminho da sua pasta local dentro do código para rodar
 
+# Local exato em que você irá trocar o código e sua pasta
 default_dirs = [
-    r"C:\Users\paulo.gurgel\Desktop\Solução ComPass\Visualização Streamlit\clickbuss",   # <- Aqui você deverá alterar para o caminho da sua pasta em que estão os arquivos
+    r"C:\Users\paulo.gurgel\Desktop\Solução ComPass\Visualização Streamlit\clickbuss",   # <- Aqui você deverá alterar para o caminho da sua pasta "clickbuss" em que estão os arquivos
     os.path.join(os.getcwd(), "clickbuss"),  # pasta relativa
     "/content/drive/MyDrive/clickbuss"       # Colab/Drive
 ]
 
-# 4. Execute o arquivo app.py
+# 6. Execute o arquivo app.py com o streamlit
 streamlit run app.py

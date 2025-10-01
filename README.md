@@ -134,7 +134,7 @@ streamlit run app.py
 ```bash
 # 1. Abra a pasta "Código Machine Learning"
 
-# 2. Baixe ou copie o arquivo "ClickBus_Entrega_Completa_v5.ipynb" para seu Google Colab
+# 2. Baixe ou copie o arquivo "ClickBus_Entrega_Completa_v5.ipynb" para seu Google Colab ou interpretador Python
 
 # 3. Visualize o resultado dos modelos que foram gerados
 ```

@@ -24,8 +24,14 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 
 ## Sobre
 
-Este projeto corresponde ao desafio proposto pela FIAP, em parceria com a ClickBus.  
-O objetivo principal é apresentar uma solução de **Modelos de Machine Learning**, **Visualização de Dados** e futuras composições que auxiliarão a **ClickBus** a tomarem decisões estratégicas baseado em dados, que atenda aos requisitos definidos no desafio (Segmentação de Clientes, Previsão de Próxima Compra, Previsão de Próximo Destino)
+Este projeto corresponde ao desafio proposto pela FIAP, em parceria com a ClickBus.
+
+O objetivo principal é apresentar uma solução de:
+- **Modelos de Machine Learning**
+- **Visualização de Dados** e
+- **futuras composições que auxiliarão a ClickBus a tomarem decisões estratégicas baseado em dados**
+
+Que atenda aos requisitos definidos no desafio (Segmentação de Clientes, Previsão de Próxima Compra, Previsão de Próximo Destino)
 
 <img width="1051" height="579" alt="image" src="https://github.com/user-attachments/assets/a23428dd-260f-4f0b-b72d-5b8e3ea2b68f" />
 

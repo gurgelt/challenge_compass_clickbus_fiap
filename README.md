@@ -57,17 +57,17 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 
 <img width="1229" height="678" alt="image" src="https://github.com/user-attachments/assets/78541385-b687-4de5-b860-57027ced82e6" />
 
-- Para escalar a solução que criamos, essa é a arquitetura que planejamos para o futuro, um pipeline de dados 100% serverless e automatizado na AWS.
+Para escalar a solução que criamos, essa é a arquitetura que planejamos para o futuro, um pipeline de dados 100% serverless e automatizado na AWS.
 
-- Nossa jornada começa extraindo os dados direto da fonte, que pode ser o MongoDB  (ou banco em nuvem que vocês utilizam), e centralizando tudo de forma segura em S3, que funcionará como nosso grande repositório de dados.
+1. Nossa jornada começa extraindo os dados direto da fonte, que pode ser o MongoDB  (ou banco em nuvem que vocês utilizam), e centralizando tudo de forma segura em S3, que funcionará como nosso grande repositório de dados.
 
-- A partir daí, a orquestração fica por conta do MWAA, que comanda todo o fluxo de forma automática, sem nenhuma intervenção manual. É ele quem aciona o AWS Glue para transformar os dados brutos em informações limpas e prontas para o consumo, criando um catálogo de dados para facilitar qualquer consulta.
+2. A partir daí, a orquestração fica por conta do MWAA, que comanda todo o fluxo de forma automática, sem nenhuma intervenção manual. É ele quem aciona o AWS Glue para transformar os dados brutos em informações limpas e prontas para o consumo, criando um catálogo de dados para facilitar qualquer consulta.
 
-- Com os dados preparados, entra em cena o nosso cérebro, o SageMaker. Ele utiliza essas informações para treinar e rodar os modelos de segmentação e de propensão, gerando as previsões de próxima compra e destino que o negócio precisa.
+3. Com os dados preparados, entra em cena o nosso cérebro, o SageMaker. Ele utiliza essas informações para treinar e rodar os modelos de segmentação e de propensão, gerando as previsões de próxima compra e destino que o negócio precisa.
 
-- E claro, damos total visibilidade e poder de análise para vocês. Com o Athena, seu time de dados pode fazer consultas exploratórias diretamente nos dados processados. E na ponta final, o QuickSight consome tudo isso para entregar dashboards dinâmicos e visuais, permitindo que o time de marketing e produto acompanhe os segmentos e a performance das previsões em tempo real.
+4. E claro, damos total visibilidade e poder de análise para vocês. Com o Athena, seu time de dados pode fazer consultas exploratórias diretamente nos dados processados. E na ponta final, o QuickSight consome tudo isso para entregar dashboards dinâmicos e visuais, permitindo que o time de marketing e produto acompanhe os segmentos e a performance das previsões em tempo real.
 
-- Em resumo, é uma arquitetura que não só resolve os desafios de hoje, mas que prepara a ClickBus para o futuro, transformando dados brutos em inteligência de negócio de forma contínua, escalável e eficiente.
+Em resumo, é uma arquitetura que não só resolve os desafios de hoje, mas que prepara a ClickBus para o futuro, transformando dados brutos em inteligência de negócio de forma contínua, escalável e eficiente.
 
 
 ---

@@ -120,7 +120,7 @@ streamlit run app.py
 
 <img width="1228" height="687" alt="image" src="https://github.com/user-attachments/assets/d6d0d64b-4e4d-4a1a-878f-c0f748f86c27" />
 
-#### Nosso LinkedIn:
+### Nosso LinkedIn:
 
 - [Paulo Gurgel](https://www.linkedin.com/in/paulo-tudini/)
 - [Mike Lucio Rubiml](https://www.linkedin.com/in/mike-rubim-155735130/)

@@ -11,17 +11,15 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 - [Arquitetura / Tecnologias](#arquitetura--tecnologias)  
 - [Como executar / rodar localmente](#como-executar--rodar-localmente)  
 - [Visualização (Streamlit)](#visualização-streamlit)  
-- [Estrutura de pastas](#estrutura-de-pastas)  
-- [Uso / Exemplos](#uso--exemplos)  
 - [Colaboração / Contribuição](#colaboração--contribuição)  
-- [Contato / Autor](#contato--autor)  
+- [Contato / Autores](#contato--autores)  
 
 ---
 
 ## Sobre
 
 Este projeto corresponde ao desafio proposto pela FIAP, em parceria com a ClickBus.  
-O objetivo principal é apresentar uma solução de **análise, modelagem de dados e visualização interativa** que atenda aos requisitos definidos no desafio.
+O objetivo principal é apresentar uma solução de **Modelos de Machine Learning**, **Visualização de Dados** e futuras composições que auxiliarão a **ClickBus** a tomarem decisões estratégicas baseado em dados, que atenda aos requisitos definidos no desafio (Segmentação de Clientes, Previsão de Próxima Compra, Previsão de Próximo Destino)
 
 ---
 
@@ -30,9 +28,9 @@ O objetivo principal é apresentar uma solução de **análise, modelagem de dad
 - Preprocessamento de dados  
 - Feature engineering  
 - Modelagem e validação  
-- Avaliação com métricas (ex: RMSE, acurácia, etc.)  
+- Modelos de Previsões 
 - Visualização interativa com **Streamlit**  
-- Geração de relatórios e insights  
+- Insights com base nas visualizações
 
 ---
 

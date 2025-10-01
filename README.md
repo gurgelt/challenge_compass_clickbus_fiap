@@ -145,8 +145,8 @@ streamlit run app.py
 
 ### Nosso LinkedIn:
 
-- [Paulo Gurgel](https://www.linkedin.com/in/paulo-tudini/)
-- [Mike Lucio Rubiml](https://www.linkedin.com/in/mike-rubim-155735130/)
+- [Paulo Gurgel Tudini](https://www.linkedin.com/in/paulo-tudini/)
+- [Mike Lucio Rubim](https://www.linkedin.com/in/mike-rubim-155735130/)
 - [Augusto Giannattasio Lopes](https://www.linkedin.com/in/augusto-giannattasio-lopes/)
 - [Pedro Pereira](https://www.linkedin.com/in/pedro-pereira-8334a9211/)
 

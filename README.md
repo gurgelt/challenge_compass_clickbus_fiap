@@ -24,7 +24,7 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 
 ## Sobre
 
-Este projeto corresponde ao desafio proposto pela FIAP, em parceria com a ClickBus.
+Este projeto corresponde ao desafio proposto pela ClickBus, em parceria com a FIAP.
 
 O objetivo principal é apresentar uma solução de:
 - **Modelos de Machine Learning**

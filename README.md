@@ -73,7 +73,7 @@ Para escalar a solução que criamos, essa é a arquitetura que planejamos para 
 
 1. Nossa jornada começa extraindo os dados direto da fonte, que pode ser o MongoDB  (ou banco em nuvem que vocês utilizam), e centralizando tudo de forma segura em S3, que funcionará como nosso grande repositório de dados.
 
-2. A partir daí, a orquestração fica por conta do MWAA, que comanda todo o fluxo de forma automática, sem nenhuma intervenção manual. É ele quem aciona o AWS Glue para transformar os dados brutos em informações limpas e prontas para o consumo, criando um catálogo de dados para facilitar qualquer consulta.
+2. A partir daí, a orquestração fica por conta do MWAA (Airflow) , que comanda todo o fluxo de forma automática, sem nenhuma intervenção manual. É ele quem aciona o AWS Glue para transformar os dados brutos em informações limpas e prontas para o consumo, criando um catálogo de dados para facilitar qualquer consulta.
 
 3. Com os dados preparados, entra em cena o nosso cérebro, o SageMaker. Ele utiliza essas informações para treinar e rodar os modelos de segmentação e de propensão, gerando as previsões de próxima compra e destino que o negócio precisa.
 

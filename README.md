@@ -7,6 +7,10 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 
 ---
 
+## Importante:
+
+- Para que seja compreendido além do que está no GitHub, pedimos educadamente que visualizem o arquivo PDF da nossa apresentação Pitch, juntamente com o vídeo pitch (link ao final do arquivo pdf), para compreender melhor ainda a nossa missão e compromisso com a ClickBus.
+
 ## 🧭 Sumário
 
 - Sobre
@@ -126,7 +130,7 @@ streamlit run app.py
 - [Paulo Gurgel](https://www.linkedin.com/in/paulo-tudini/)
 - [Mike Lucio Rubiml](https://www.linkedin.com/in/mike-rubim-155735130/)
 - [Augusto Giannattasio Lopes](https://www.linkedin.com/in/augusto-giannattasio-lopes/)
-- [Pedro Pereiral](https://www.linkedin.com/in/pedro-pereira-8334a9211/)
+- [Pedro Pereira](https://www.linkedin.com/in/pedro-pereira-8334a9211/)
 
 # Guiamos a sua empresa na direção correta >>>>
 

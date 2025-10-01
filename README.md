@@ -1,4 +1,4 @@
-# Challenge Compass / ClickBus FIAP
+# Challenge Compass / ClickBus - FIAP
 
 Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 

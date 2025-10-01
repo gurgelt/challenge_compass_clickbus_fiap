@@ -85,6 +85,5 @@ default_dirs = [
 streamlit run app.py
 
 # 7. Dê um scroll para baixo ao lado esquerdo da navbar para visualizar as opções de segmentação, previsão de compra e previsão de próximo destino.
-<img width="241" height="251" alt="image" src="https://github.com/user-attachments/assets/7269ae64-a555-4df2-964c-ab65a2672676" />
 
 # 8. Aproveite os Insights :)

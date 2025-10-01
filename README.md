@@ -17,8 +17,8 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 - Funcionalidades / Objetivos
 - Tecnologias
 - Arquitetura Futura
-- Como executar / rodar localmente
-- Visualização (Streamlit)
+- Como executar o Streamlit
+- Como executar o Modelo de Machine Learning
 - Contato / Autores
 ---
 
@@ -83,7 +83,7 @@ Em resumo, é uma arquitetura que não só resolve os desafios de hoje, mas que 
 ---
 
 
-## Como executar / rodar localmente
+## Como executar o Streamlit / rodar localmente
 
 ### Pré-requisitos
 
@@ -125,6 +125,18 @@ streamlit run app.py
 # 7. Dê um scroll para baixo ao lado esquerdo da navbar para visualizar as opções de segmentação, previsão de compra e previsão de próximo destino.
 
 # 8. Aproveite os Insights :)
+```
+---
+## Como executar o Modelo de Machine Learning
+
+### Passo a passo de como rodar o código:
+
+```bash
+# 1. Abra a pasta "Código Machine Learning"
+
+# 2. Baixe ou copie o arquivo "ClickBus_Entrega_Completa_v5.ipynb" para seu Google Colab
+
+# 3. Visualize o resultado dos modelos que foram gerados
 ```
 ---
 ### Contato / Autores

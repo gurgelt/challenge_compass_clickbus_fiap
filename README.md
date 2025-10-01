@@ -1,4 +1,4 @@
-<img width="1228" height="687" alt="image" src="https://github.com/user-attachments/assets/8912adea-847d-40ee-9251-15febeea87c2" /># <img width="1022" height="132" alt="image" src="https://github.com/user-attachments/assets/2c3e36c6-d8e4-486f-8d40-3f69095390f7" />
+<img width="1228" height="687" alt="image" src="https://github.com/user-attachments/assets/8912adea-847d-40ee-9251-15febeea87c2" />
 
 # Challenge Compass / ClickBus - FIAP
 

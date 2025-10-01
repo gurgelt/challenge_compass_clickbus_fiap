@@ -9,7 +9,7 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 
 ## Importante:
 
-- Para que seja compreendido além do que está no GitHub, pedimos educadamente que visualizem o arquivo PDF da nossa apresentação Pitch, juntamente com o vídeo pitch (link ao final do arquivo pdf), para compreender melhor ainda a nossa missão e compromisso com a ClickBus.
+- Para que seja compreendido além do que está no GitHub, pedimos educadamente que visualizem também o arquivo PDF da nossa apresentação, juntamente com o vídeo pitch (link no slide final do arquivo pdf), para compreender melhor ainda a nossa missão e compromisso com a ClickBus.
 
 ## 🧭 Sumário
 

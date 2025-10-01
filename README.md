@@ -1,4 +1,5 @@
-# Challenge Compass / ClickBus - FIAP
+# <img width="337" height="125" alt="image" src="https://github.com/user-attachments/assets/bb055279-f363-483c-a8b9-018159184cc5" />
+Challenge Compass / ClickBus - FIAP
 
 Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 

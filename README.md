@@ -8,15 +8,14 @@ Repositório para a entrega do desafio da FIAP em parceria com a ClickBus.
 
 ## 🧭 Sumário
 
-- [Sobre] 
-- [Funcionalidades / Objetivos]
-- [Tecnologias]
-- [Arquitetura Futura]
-- [Como executar / rodar localmente]
-- [Visualização (Streamlit)]
-- [Colaboração / Contribuição] 
-- [Contato / Autores]
-
+- Sobre
+- Funcionalidades / Objetivos
+- Tecnologias
+- Arquitetura Futura
+- Como executar / rodar localmente
+- Visualização (Streamlit)
+- Colaboração / Contribuição
+- Contato / Autores
 ---
 
 ## Sobre

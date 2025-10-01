@@ -58,7 +58,7 @@ O objetivo principal é apresentar uma solução de **análise, modelagem de dad
 
 ### Atenção: 
 
-- Todos os arquivos necessários para rodar o STREAMLIT são grandes demais para serem armazenados no GitHub, por isso postamos eles no Google Drive também para vocês poderem baixar e assim conseguir executar corretamente a nossa solução.
+- Todos os arquivos necessários para rodar o STREAMLIT são grandes demais para serem armazenados no GitHub, por isso postamos eles no Google Drive também para vocês poderem baixar e assim conseguirem executar corretamente a nossa solução.
 
 - Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
 

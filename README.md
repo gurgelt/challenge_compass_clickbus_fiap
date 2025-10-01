@@ -29,7 +29,7 @@ Este projeto corresponde ao desafio proposto pela ClickBus, em parceria com a FI
 O objetivo principal é apresentar uma solução de:
 - **Modelos de Machine Learning**
 - **Visualização de Dados** e
-- **futuras composições que auxiliarão a ClickBus a tomarem decisões estratégicas baseado em dados**
+- **Futuras composições que auxiliarão a ClickBus a tomarem decisões estratégicas baseado em dados**
 
 Que atenda aos requisitos definidos no desafio (Segmentação de Clientes, Previsão de Próxima Compra, Previsão de Próximo Destino)
 

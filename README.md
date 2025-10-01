@@ -37,6 +37,9 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 - Visualização interativa com **Streamlit**  
 - Insights com base nas visualizações
 
+  <img width="1034" height="506" alt="image" src="https://github.com/user-attachments/assets/8d7efb6c-89a7-48a3-b6a4-5d9fd89a3221" />
+
+
 ---
 
 ## Arquitetura / Tecnologias

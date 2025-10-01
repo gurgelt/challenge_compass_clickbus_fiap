@@ -59,7 +59,7 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 
 Para escalar a solução que criamos, essa é a arquitetura que planejamos para o futuro, um pipeline de dados 100% serverless e automatizado na AWS.
 
-Nossa jornada começa extraindo os dados direto da fonte, que pode ser o MongoDB de vocês, e centralizando tudo de forma segura em S3, que funcionará como nosso grande repositório de dados.
+Nossa jornada começa extraindo os dados direto da fonte, que pode ser o MongoDB de vocês (ou banco em nuvem que a ClickBus utiliza), e centralizando tudo de forma segura em S3, que funcionará como nosso grande repositório de dados.
 
 A partir daí, a orquestração fica por conta do MWAA, que comanda todo o fluxo de forma automática, sem nenhuma intervenção manual. É ele quem aciona o AWS Glue para transformar os dados brutos em informações limpas e prontas para o consumo, criando um catálogo de dados para facilitar qualquer consulta.
 

@@ -94,7 +94,7 @@ Em resumo, é uma arquitetura que não só resolve os desafios de hoje, mas que 
 
 ### Atenção: 
 
-- Todos os arquivos necessários para executar o Streamlit são grandes demais para serem armazenados no GitHub. Por isso, disponibilizamos eles no Google Drive, para que você possa baixar e rodar a aplicação corretamente.
+- Todos os arquivos necessários para executar o Streamlit são grandes demais para serem armazenados no GitHub. Por isso, disponibilizamos eles no Google Drive, para que vocês possam baixar e rodar a aplicação corretamente.
 
 - Link do Google Drive para baixar o restante dos arquivos: https://drive.google.com/drive/folders/1J86ENa-IBWder4iiuaqtgxwg113dgFrB?usp=sharing
 

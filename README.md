@@ -42,7 +42,7 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 
 ---
 
-## Arquitetura / Tecnologias
+## Tecnologias
 
 - Python 3.x  
 - Pandas, NumPy  
@@ -52,6 +52,14 @@ O objetivo principal é apresentar uma solução de **Modelos de Machine Learnin
 - Streamlit  
 
 ---
+
+## Arquitetura Futura para a ClickBus
+
+<img width="1229" height="678" alt="image" src="https://github.com/user-attachments/assets/78541385-b687-4de5-b860-57027ced82e6" />
+
+
+---
+
 
 ## Como executar / rodar localmente
 

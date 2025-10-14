@@ -154,3 +154,8 @@ streamlit run app.py
 
 # Guiamos a sua empresa na direção correta >>>>
 
+## Licença
+
+Copyright (c) [2025] [Compass]
+
+Este projeto está distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.

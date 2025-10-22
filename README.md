@@ -67,7 +67,7 @@ Que atenda aos requisitos definidos no desafio (Segmentação de Clientes, Previ
 
 ## Arquitetura Futura para a ClickBus
 
-<img width="1229" height="678" alt="image" src="https://github.com/user-attachments/assets/78541385-b687-4de5-b860-57027ced82e6" />
+![WhatsApp Image 2025-10-22 at 20 23 12](https://github.com/user-attachments/assets/a36325d4-0bd5-400d-ac5a-6e59c1854adf)
 
 Para escalar a solução que criamos, essa é a arquitetura que planejamos para o futuro, um pipeline de dados 100% serverless e automatizado na AWS.
 
